@@ -1,5 +1,4 @@
-﻿# Shader Binary はバイナリとして扱うため.
-*.[sS][pP][vV] -diff -text
+﻿*.[sS][pP][vV] -diff -text
 *.[jJ][pP][gG] -diff -text
 *.[pP][nN][gG] -diff -text
 
